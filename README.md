@@ -1,6 +1,6 @@
 # expo-sdk48-facebook-issue
 
-***To Recreate issue:
+***To Recreate issue:***
 
 1) clone repo with `git clone https://github.com/Manifest-Labs/expo-sdk48-facebook-issue.git`
 
